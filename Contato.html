@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Contato - Livraria Ficcional do Fernando</title>
+</head>
+
+<body>
+
+    <form>
+
+        <fieldset>
+
+            <legend>Contate-nos</legend>
+
+            <label for="nome">Nome:</label>
+            <input
+                type="text"
+                id="nome"
+                name="nome"
+                placeholder="Digite seu nome completo"
+            >
+
+            <br><br>
+
+            <label for="email">Email:</label>
+            <input
+                type="email"
+                id="email"
+                name="email"
+                placeholder="seuemail@exemplo.com"
+            >
+
+            <br><br>
+
+            <label for="telefone">Telefone:</label>
+            <input
+                type="tel"
+                id="telefone"
+                name="telefone"
+                placeholder="(41) 99999-9999"
+            >
+
+            <br><br>
+
+            <label for="assunto">Assunto:</label>
+
+            <select id="assunto" name="assunto">
+
+                <option value="">Selecione --</option>
+                <option value="trocas">Trocas</option>
+                <option value="atendimento">Atendimento</option>
+                <option value="comercial">Comercial</option>
+                <option value="outros">Outros</option>
+
+            </select>
+
+            <br><br>
+
+            <label for="mensagem">Mensagem:</label>
+
+            <br>
+
+            <textarea
+                id="mensagem"
+                name="mensagem"
+                rows="6"
+                cols="40"
+                placeholder="Escreva sua mensagem para a nossa livraria..."
+            ></textarea>
+
+            <br><br>
+
+            <input
+                type="checkbox"
+                id="informacoes"
+                name="informacoes"
+            >
+
+            <label for="informacoes">
+                Desejo receber informações sobre a Livraria Ficcional do Fernando
+            </label>
+
+            <br><br>
+
+            <button type="submit">Enviar</button>
+
+            <button type="reset">Resetar</button>
+
+        </fieldset>
+
+    </form>
+
+    <br>
+
+    <a href="index.html">Voltar para o início</a>
+
+</body>
+
+</html>
