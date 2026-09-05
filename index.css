@@ -4,7 +4,7 @@
 }
 
 .destaques h2 {
-    color: blue;
+    color: rgb(10, 0, 3);
 }
 
 #topo h1 {
@@ -13,5 +13,5 @@
 }
 
 body {
-    background-color: #d3d3d3;
+    background-color: #333030;
 }

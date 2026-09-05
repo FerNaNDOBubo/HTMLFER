@@ -1,0 +1,37 @@
+.pagina-contato {
+    background-color: black;
+    color: white;
+}
+
+.pagina-contato #topo {
+    background-color: black;
+}
+
+.pagina-contato #menu {
+    background-color: black;
+}
+
+.pagina-contato #menu a {
+    color: white;
+}
+
+.pagina-contato #rodape {
+    background-color: black;
+}
+
+.pagina-contato #rodape a {
+    color: white;
+}
+
+.pagina-contato .contato {
+    color: white;
+    padding: 20px;
+}
+
+.pagina-contato legend {
+    color: white;
+}
+
+.pagina-contato label {
+    color: white;
+}

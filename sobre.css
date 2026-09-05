@@ -1,0 +1,29 @@
+.pagina-sobre {
+    background-color: yellow;
+    color: black;
+}
+
+.pagina-sobre #topo {
+    background-color: yellow;
+}
+
+.pagina-sobre #menu {
+    background-color: yellow;
+}
+
+.pagina-sobre #menu a {
+    color: black;
+}
+
+.pagina-sobre #rodape {
+    background-color: yellow;
+}
+
+.pagina-sobre #rodape a {
+    color: black;
+}
+
+.pagina-sobre .sobre h2,
+.pagina-sobre .sobre h3 {
+    color: black;
+}
