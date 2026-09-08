@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .pagina-contato {
     background-color: black;
     color: white;
@@ -35,42 +34,4 @@
 
 .pagina-contato label {
     color: white;
-=======
-.pagina-contato {
-    background-color: black;
-    color: white;
-}
-
-.pagina-contato #topo {
-    background-color: black;
-}
-
-.pagina-contato #menu {
-    background-color: black;
-}
-
-.pagina-contato #menu a {
-    color: white;
-}
-
-.pagina-contato #rodape {
-    background-color: black;
-}
-
-.pagina-contato #rodape a {
-    color: white;
-}
-
-.pagina-contato .contato {
-    color: white;
-    padding: 20px;
-}
-
-.pagina-contato legend {
-    color: white;
-}
-
-.pagina-contato label {
-    color: white;
->>>>>>> 5f93d8f785d9244b399787aa50ca9464a6f7c0bc
 }
