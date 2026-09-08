@@ -1,0 +1,17 @@
+.destaques {
+    background-color: black;
+    padding: 20px;
+}
+
+.destaques h2 {
+    color: rgb(10, 0, 3);
+}
+
+#topo h1 {
+    background-color: black;
+    padding: 15px;
+}
+
+body {
+    background-color: #333030;
+}
